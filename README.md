@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoojaS0305
 - 👀 I’m interested in gaining computer programming knowledge
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me by email 
 
